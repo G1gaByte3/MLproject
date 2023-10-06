@@ -1,4 +1,4 @@
-# Multinomial Regression Model to predict football outcomes
+# Multinomial Linear Regression Model to predict football outcomes
 ## Purpose of Project
 
 **The main goal of this project is to present usability and build Machine Learning Model based on Multinomial Logistic Regression for predicting the results of football matches (the English Premier League was used as an example for the analysis). Script presents the process of data exploring and cleansing, model building and evaluation and practical use to predict the outcomes of future football matches. 
